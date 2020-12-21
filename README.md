@@ -4,3 +4,5 @@ Performed analysis on the MNIST dataset. The MNIST dataset (Modified National In
 2. Applied Convolutional Neural Network (CNN)
 3. K-Nearest Neighbors (KNN)
 4. Comparison between CNN and KNN
+
+Packages Used: Pandas, NumPy, Seaborn, MatplotLib (PyPlot), Keras (Sequential, Dense), Sklearn. 
